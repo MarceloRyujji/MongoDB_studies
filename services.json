@@ -1,0 +1,62 @@
+[
+  {
+    "Service Name": "Application Development",
+    "Price": "$5000"
+  },
+  {
+    "Service Name": "Website Design",
+    "Price": "$3000"
+  },
+  {
+    "Service Name": "Technical Support",
+    "Price": "$100/hour"
+  },
+  {
+    "Service Name": "Software Development",
+    "Price": "$8000"
+  },
+  {
+    "Service Name": "Database Management",
+    "Price": "$150/hour"
+  },
+  {
+    "Service Name": "Cybersecurity Consultation",
+    "Price": "$2000"
+  },
+  {
+    "Service Name": "Cloud Computing Solutions",
+    "Price": "$6000"
+  },
+  {
+    "Service Name": "Network Infrastructure Setup",
+    "Price": "$4000"
+  },
+  {
+    "Service Name": "Data Analysis and Reporting",
+    "Price": "$250/hour"
+  },
+  {
+    "Service Name": "IT Training Courses",
+    "Price": "$1000/person"
+  },
+  {
+    "Service Name": "Mobile App Development",
+    "Price": "$6000"
+  },
+  {
+    "Service Name": "System Integration",
+    "Price": "$7000"
+  },
+  {
+    "Service Name": "UI/UX Design Services",
+    "Price": "$3500"
+  },
+  {
+    "Service Name": "IT Consultancy",
+    "Price": "$300/hour"
+  },
+  {
+    "Service Name": "Remote IT Support",
+    "Price": "$80/hour"
+  }
+]
